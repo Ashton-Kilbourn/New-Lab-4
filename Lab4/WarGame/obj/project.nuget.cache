@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h6j+IVT+NmILXF9Vwrb8J5QcNfalhfjUnoChATgcBR9j1C/+36IO1w4RLJ4glc6iCNV1zR7R8PLUKqt1ZZ0oNw==",
+  "success": true,
+  "projectFilePath": "C:\\Programming 2.2\\pg2-2303-ASKilbourn-master\\Week4\\Lab4\\WarGame\\WarGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akilb\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
